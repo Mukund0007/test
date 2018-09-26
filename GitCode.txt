@@ -3,3 +3,5 @@ git add .
 git remote add origin https://github.com/Mukund0007/test.git
 git push -u origin master
 git status
+
+gitk MyFirstGit.docx
